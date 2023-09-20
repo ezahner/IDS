@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <Year>1990</Year>
+    <Underﬁve> 93.4</Underﬁve>
+    <Infant> 64.8</Infant>
+    <Neonatal> 36.8</Neonatal>
+    <AboveFive> 46.7</AboveFive>
+  </row>
+  <row>
+    <Year>1991</Year>
+    <Underﬁve> 92.1</Underﬁve>
+    <Infant> 63.9</Infant>
+    <Neonatal> 36.3</Neonatal>
+    <AboveFive> 46.05</AboveFive>
+  </row>
+  <row>
+    <Year>1992</Year>
+    <Underﬁve> 90.9</Underﬁve>
+    <Infant> 63.1</Infant>
+    <Neonatal> 35.9</Neonatal>
+    <AboveFive> 45.45</AboveFive>
+  </row>
+  <row>
+    <Year>1993</Year>
+    <Underﬁve> 89.7</Underﬁve>
+    <Infant> 62.3</Infant>
+    <Neonatal> 35.4</Neonatal>
+    <AboveFive> 44.85</AboveFive>
+  </row>
+  <row>
+    <Year>1994</Year>
+    <Underﬁve> 88.7</Underﬁve>
+    <Infant> 61.4</Infant>
+    <Neonatal> 28.0</Neonatal>
+    <AboveFive> 44.35</AboveFive>
+  </row>
+  <row>
+    <Year>1995</Year>
+    <Underﬁve> 87.3</Underﬁve>
+    <Infant> 60.5</Infant>
+    <Neonatal> 34.4</Neonatal>
+    <AboveFive> 43.65</AboveFive>
+  </row>
+  <row>
+    <Year>1996</Year>
+    <Underﬁve> 85.6</Underﬁve>
+    <Infant> 59.4</Infant>
+    <Neonatal> 33.7</Neonatal>
+    <AboveFive> 42.8</AboveFive>
+  </row>
+  <row>
+    <Year>1997</Year>
+    <Underﬁve> 70.6</Underﬁve>
+    <Infant> 58.2</Infant>
+    <Neonatal> 33.1</Neonatal>
+    <AboveFive> 35.3</AboveFive>
+  </row>
+  <row>
+    <Year>1998</Year>
+    <Underﬁve> 82.1</Underﬁve>
+    <Infant> 56.9</Infant>
+    <Neonatal> 32.3</Neonatal>
+    <AboveFive> 41.05</AboveFive>
+  </row>
+  <row>
+    <Year>1999</Year>
+    <Underﬁve> 79.9</Underﬁve>
+    <Infant> 55.4</Infant>
+    <Neonatal> 31.5</Neonatal>
+    <AboveFive> 39.95</AboveFive>
+  </row>
+  <row>
+    <Year>2000</Year>
+    <Underﬁve> 77.5</Underﬁve>
+    <Infant> 53.9</Infant>
+    <Neonatal> 30.7</Neonatal>
+    <AboveFive> 38.75</AboveFive>
+  </row>
+  <row>
+    <Year>2001</Year>
+    <Underﬁve> 74.8</Underﬁve>
+    <Infant> 52.1</Infant>
+    <Neonatal> 29.8</Neonatal>
+    <AboveFive> 37.4</AboveFive>
+  </row>
+  <row>
+    <Year>2002</Year>
+    <Underﬁve> 72</Underﬁve>
+    <Infant> 50.35</Infant>
+    <Neonatal> 28.9</Neonatal>
+    <AboveFive> 36</AboveFive>
+  </row>
+  <row>
+    <Year>2003</Year>
+    <Underﬁve> 69.2</Underﬁve>
+    <Infant> 48.6</Infant>
+    <Neonatal> 28</Neonatal>
+    <AboveFive> 34.6</AboveFive>
+  </row>
+  <row>
+    <Year>2004</Year>
+    <Underﬁve> 66.7</Underﬁve>
+    <Infant> 46.9</Infant>
+    <Neonatal> 28.0</Neonatal>
+    <AboveFive> 33.35</AboveFive>
+  </row>
+  <row>
+    <Year>2005</Year>
+    <Underﬁve> 70.6</Underﬁve>
+    <Infant> 45.1</Infant>
+    <Neonatal> 26.1</Neonatal>
+    <AboveFive> 35.3</AboveFive>
+  </row>
+  <row>
+    <Year>2006</Year>
+    <Underﬁve> 61.1</Underﬁve>
+    <Infant> 43.4</Infant>
+    <Neonatal> 25.3</Neonatal>
+    <AboveFive> 30.55</AboveFive>
+  </row>
+  <row>
+    <Year>2007</Year>
+    <Underﬁve> 58.5</Underﬁve>
+    <Infant> 50.35</Infant>
+    <Neonatal> 24.4</Neonatal>
+    <AboveFive> 29.25</AboveFive>
+  </row>
+  <row>
+    <Year>2008</Year>
+    <Underﬁve> 56.2</Underﬁve>
+    <Infant> 40.3</Infant>
+    <Neonatal> 23.6</Neonatal>
+    <AboveFive> 28.1</AboveFive>
+  </row>
+  <row>
+    <Year>2009</Year>
+    <Underﬁve> 53.7</Underﬁve>
+    <Infant> 38.8</Infant>
+    <Neonatal> 22.9</Neonatal>
+    <AboveFive> 26.85</AboveFive>
+  </row>
+  <row>
+    <Year>2010</Year>
+    <Underﬁve> 70.6</Underﬁve>
+    <Infant> 37.4</Infant>
+    <Neonatal> 22.2</Neonatal>
+    <AboveFive> 35.3</AboveFive>
+  </row>
+  <row>
+    <Year>2011</Year>
+    <Underﬁve> 49.3</Underﬁve>
+    <Infant> 36</Infant>
+    <Neonatal> 21.5</Neonatal>
+    <AboveFive> 24.65</AboveFive>
+  </row>
+  <row>
+    <Year>2012</Year>
+    <Underﬁve> 47.3</Underﬁve>
+    <Infant> 34.7</Infant>
+    <Neonatal> 20.8</Neonatal>
+    <AboveFive> 23.65</AboveFive>
+  </row>
+  <row>
+    <Year>2013</Year>
+    <Underﬁve> 45.5</Underﬁve>
+    <Infant> 33.6</Infant>
+    <Neonatal> 20.2</Neonatal>
+    <AboveFive> 22.75</AboveFive>
+  </row>
+  <row>
+    <Year>2014</Year>
+    <Underﬁve> 43.7</Underﬁve>
+    <Infant> 50.35</Infant>
+    <Neonatal> 19.6</Neonatal>
+    <AboveFive> 21.85</AboveFive>
+  </row>
+  <row>
+    <Year>2015</Year>
+    <Underﬁve> 42.2</Underﬁve>
+    <Infant> 31.4</Infant>
+    <Neonatal> 19.1</Neonatal>
+    <AboveFive> 21.1</AboveFive>
+  </row>
+  <row>
+    <Year>2016</Year>
+    <Underﬁve> 40.8</Underﬁve>
+    <Infant> 30.5</Infant>
+    <Neonatal> 18.6</Neonatal>
+    <AboveFive> 20.4</AboveFive>
+  </row>
+</root>
